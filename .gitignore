@@ -1,0 +1,5 @@
+processing-py
+*.pyc
+*$py.class
+out
+__pycache__
